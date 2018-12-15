@@ -7,4 +7,4 @@ if you have better way to design  this page then you feel free to do this  !!
 
 
 
-![alt text](https://github.com/RahulNoulia/typeWriter-full-responsive-pure-javaScript/blob/master/img/Screen_after.png)
+![This Screen you get after launching application](https://github.com/RahulNoulia/typeWriter-full-responsive-pure-javaScript/blob/master/img/Screen_after.png)
